@@ -1,0 +1,10 @@
+Create simple command line tool for time zone conversion
+
+input:
+- time in Kyiv
+- time zone
+
+result:
+- time in defined time zone
+
+
